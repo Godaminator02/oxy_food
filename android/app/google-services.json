@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "714815486108",
+    "project_id": "oxy-food-a898a",
+    "storage_bucket": "oxy-food-a898a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714815486108:android:13012dd0b764ef00da9559",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlMcLlMYMBtJtCw6y0V0Ori437b1IxgUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
